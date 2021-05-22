@@ -1,0 +1,8 @@
+{
+  "render": false,
+  "episodes": 10000,
+  "plot_frequency": 50,
+  "log_frequency": 1,
+  "step_log_frequency": -1,
+  "video_frequency": 50
+}
